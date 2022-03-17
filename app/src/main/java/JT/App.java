@@ -11,5 +11,6 @@ public class App {
     public static void main(String[] args) {
         App A1 = new App();
         System.out.println(A1.getGreeting());
+        System.out.println("이거 바꿈");
     }
 }
