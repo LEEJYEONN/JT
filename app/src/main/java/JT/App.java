@@ -12,5 +12,7 @@ public class App {
         App A1 = new App();
         System.out.println(A1.getGreeting());
         System.out.println("이거 바꿈");
+        System.out.println("분기 develop추가");
+        System.out.println("develop에 추가작성");
     }
 }
